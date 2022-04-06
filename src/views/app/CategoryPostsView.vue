@@ -1,11 +1,11 @@
 <template>
-  <div>Home View</div>
+  <div>Posts for category</div>
 </template>
 
 <script>
 
 export default {
-  name: 'HomeView',
+  name: 'CategoryPostsView',
   components: {
   }
 }
